@@ -1,0 +1,19 @@
+{
+  "name": "angular-ionic-lazyload-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://cytellme@github.com/cytellme/angular-ionic-lazyload-master.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cytellme/angular-ionic-lazyload-master/issues"
+  },
+  "homepage": "https://github.com/cytellme/angular-ionic-lazyload-master#readme"
+}

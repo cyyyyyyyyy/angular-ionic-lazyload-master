@@ -1,0 +1,14 @@
+{
+  "name": "angular-ionic-lazyload-master",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/cytellme/angular-ionic-lazyload-master",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
